@@ -1,0 +1,23 @@
+.jobCard {
+    /* margin-left: 2px; */
+    padding: 1rem;
+    height:auto;
+    width:90vw;
+    color: black;
+    border: 1px solid gainsboro;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+}
+
+.jobCard__title {
+    font-weight: 700;
+    border-bottom: 1px;
+}
+
+.jobCard__location {
+        font-weight: 400;
+}
+
+.jobCard__url {
+    font-weight: 400;
+}

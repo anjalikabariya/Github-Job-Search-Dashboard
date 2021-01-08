@@ -1,0 +1,41 @@
+label {
+font-size: 2rem;
+margin-bottom: 10px;
+}
+
+.search {
+    margin-bottom: 40px;
+}
+
+input {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    /* letter-spacing: 0.05rem; */
+    background-color: #FAFAFA;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: block;
+    height: 40px;
+    width: 200px;
+    -webkit-transition: outline-color 0.5s;
+    transition: outline-color 0.5s;
+    padding: 2px 0 0 13px;
+    margin-bottom: 10px;
+  }
+
+                                                                                                                                                
+
+button {
+    font-size: 17px;
+    background-color: #0095FF;
+    border: none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    /* font-family: "Avenir Regular"; */
+    /* letter-spacing: 0.05rem; */
+    padding: 18px 0;
+    height: 48px;
+    width: 200px;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
